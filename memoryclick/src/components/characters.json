@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "bmo",
+        "image": "./images/bmo.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "bubblegum",
+        "image": "./images/bubblegum.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "cake",
+        "image": "./images/cake.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "finn",
+        "image": "./images/finn.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Fionna",
+        "image": "./images/fionna.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "iceking",
+        "image": "./images/iceking.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "jake",
+        "image": "./images/jake.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "lsp",
+        "image": "./images/lsp.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "marceline",
+        "image": "./images/marceline.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "phoebe",
+        "image": "./images/phoebe.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "rainicorn",
+        "image": "./images/rainicorn.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "shelby",
+        "image": "./images/shelby.jpg",
+        "clicked": false
+    }
+]
