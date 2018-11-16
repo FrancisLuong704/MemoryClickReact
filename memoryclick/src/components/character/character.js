@@ -3,7 +3,7 @@ import "./character.css";
 
 const Character = props => (
   <div className="card" 
-  onClick={() => props.setClicked(props.id)}>
+  onClick={() => props.clicked(props.id)}>
     <div className="img-container">
       <img alt={props.name} src={props.image} />
     </div>
